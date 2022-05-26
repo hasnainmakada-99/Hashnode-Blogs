@@ -1,29 +1,29 @@
-## Types of Topologies & what is OSI & TCP/IP model in computer networking ?
+## Introduction to Topologies & networking models in computer networking
 
 ### Introduction
 
-Hey everyone in the previous blog we discussed about what are protocols in networking and what is LAN, MAN & WAN in networking. Today we are going to discuss about the most crucial things in networking which are topologies and the OSI & TCP/IP model.
+Hey everyone [in the previous blog](https://hasnainm.hashnode.dev/protocols-in-networking) we discussed about what are protocols in networking and what is LAN, MAN & WAN in networking. Today we are going to discuss about the most crucial things in networking which are topologies and the OSI & TCP/IP model.
 
 So this blog is also divided into 2 topics, In the first topic we will discuss about topologies and in the second topic we will discuss about the models in networking.
 
-So lets begin with our first topic,
+lets begin with our first topic:
 
 ### What is topologies & what are the types of topologies in networking ?
 
 Topologies are a arrangement of elements of a communication network. what this means ? let me explain it to you, networking topologies is a structure which will define that how each and every devices will be connected to each other. It is basically the structure of the network and how all the components are interconnected to each other.
 
-There are basically 5 main topologies are there in networking,
+There are basically 5 main topologies are there in networking:
 - Bus Topology
 - Ring Topology
 - Star Topology
 - Tree Topology
 - Mesh Topology
 
-Lets break down each and every topology and see how are they useful compare to others,
+Lets break down each and every topology and see how are they useful compare to others:
 
 #### Bus Topology
 
-Here's a simple demonstration image referring bus topology,
+Here's a simple demonstration image referring bus topology:
 
 ![bus.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1653376667089/4LzFj3wZ7.jpg align="left")
 
@@ -36,7 +36,7 @@ Pros:
 
 #### Ring Topology
 
-Here's a simple demonstration image referring ring topology,
+Here's a simple demonstration image referring ring topology:
 
 ![ring.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1653376956185/KYF49_vVl.jpg align="left")
 
@@ -50,7 +50,7 @@ Pros:
 
 #### Star Topology
 
-Here's a simple demonstration image referring star topology,
+Here's a simple demonstration image referring star topology:
 
 ![star.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1653377500776/oRTncBc2i.jpg align="left")
 
@@ -64,7 +64,7 @@ Pros:
 
 #### Tree Topology
 
-Here's a simple demonstration image referring tree topology,
+Here's a simple demonstration image referring tree topology:
 
 ![tree.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1653378077429/LQTnBuUlU.jpg align="left")
 
@@ -78,7 +78,7 @@ Pros:
 
 #### Mesh Topology
 
-Here's a simple demonstration image referring mesh topology,
+Here's a simple demonstration image referring mesh topology:
 
 ![mesh.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1653381567416/uqOUb1tD_.jpg align="left")
 
@@ -94,13 +94,13 @@ So that was all about the overview of topologies in the first topic how do they 
 
 Now moving on to our second topic of the blog in which I am going to explain you the OSI & TCP/IP models of computer networking.
 
-So starting off with the OSI model first,
+So starting off with the OSI model first:
 
 ### What is OSI Model in computer networking ?
 
 OSI stands for Open Systems Interconnection Model and it is a conceptual model which is used to describe the functions of a networking system. The OSI model contains 7 layers in it starting from the application layer and ending at physical layer.
 
-Here's the OSI Model,
+Here's the OSI Model:
 
 ![osi.jpeg](https://cdn.hashnode.com/res/hashnode/image/upload/v1653454334017/pFAFNOpEN.jpeg align="left")
 
@@ -159,7 +159,7 @@ The application layer is implemented in software. It consist the normal applicat
 
 So that was all about the OSI model and we've dived deep into it. I hope you have understand it by now.
 
-So let's move on to TCP/IP model now,
+So let's move on to TCP/IP model now:
 
 ### What is TCP/IP model in computer networking ?
 
@@ -171,7 +171,7 @@ The TCP/IP model is the most used model in the networking architecture and it is
 
 As we can see from the above image in the TCP/IP model the presentation layer and the session layer are not present which means the application layer directly sends the data to the transport layer and then after the normal process begins as we've seen in the OSI model.
 
-Lets break down each and every layer,
+Lets break down each and every layer:
 
 #### Physical Layer (Layer -1)
 
