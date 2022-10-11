@@ -1,1 +1,89 @@
-IyMgRXhwbG9yaW5nIE5hcHB0aXZlIEdpdEh1YiBBY3Rpb25zCgoqKkhleSBldmVyeW9uZSwgSSBhbSBIYXNuYWluIE1ha2FkYSBjdXJyZW50bHkgd29ya2luZyBhcyBhIERldmVsb3BlciBBZHZvY2F0ZSBhdCBbTmFwcHRpdmVdKGh0dHBzOi8vbmFwcHRpdmUuY29tKSB3aGVyZSBJIGV4cGxvcmUgdGhlIHBsYXRmb3JtIGRlZXBseSBhbmQgZWR1Y2F0ZSB0aGUgY29tbXVuaXR5IGFib3V0IERldk9wcyBhbmQgRmx1dHRlci4gVG9kYXkgSSBhbSBnb2luZyB0byBzaG93IHRoZSBjdXN0b20gR2l0SHViIGFjdGlvbnMgYnkgbmFwcHRpdmUgd2l0aCB3aGljaCB5b3UgY2FuIHNwZWVkIHVwIHRoZSBpbnRlZ3JhdGlvbiBvZiBDSS9DRCBwaXBlbGluZXMgdG8gZXhlY3V0ZSB0ZXN0cyBvbiB0aGUgcGxhdGZvcm0qKgoKU28gd2l0aG91dCB3YWl0aW5nIGZvciBhbnkgZnVydGhlciBhZG8sIExldCdzIGdldCBzdGFydGVkCgojIyBHZW5lcmF0aW5nIHBlcnNvbmFsIGFjY2VzcyB0b2tlbgoKVG8gc3RhcnQgd2l0aCB0aGUgYWN0aW9ucywgeW91IGZpcnN0IG5lZWQgdG8gZ2VuZXJhdGUgeW91ciBwZXJzb25hbCBhY2Nlc3MgdG9rZW4gZnJvbSB0aGUgbmFwcHRpdmUgcGxheWdyb3VuZC4gVG8gZ2VuZXJhdGUgdGhlIHVuaXF1ZSBhY2Nlc3MgdG9rZW4sIG1ha2Ugc3VyZSB0aGF0IHlvdSBoYXZlIHRoZSAqKltDTEldKGh0dHBzOi8vZG9jcy5uYXBwdGl2ZS5jb20vZ2V0dGluZ19zdGFydGVkL3N0YXJ0aW5nX3dpdGhfdGhlX2NsaS5odG1sKSoqIGluc3RhbGxlZCBvbiB5b3VyIG1hY2hpbmUuCgpPcGVuIHlvdXIgdGVybWluYWwgYW5kIHJ1biB0aGlzIGNvbW1hbmQgdG8gZ2VuZXJhdGUgYSB0b2tlbi4KYGBgCnBsYXlncm91bmQgdXNlciBwYXQgY3JlYXRlIGNpX3BhdApgYGAKQWZ0ZXIgcnVubmluZyB0aGlzIGNvbW1hbmQgeW91ciB0b2tlbiB3aWxsIGJlIGdlbmVyYXRlZCBzdWNjZXNzZnVsbHkgYW5kIHZpc2libGUgdG8geW91IGluc2lkZSB5b3VyIHRlcm1pbmFsLiBNYWtlIHN1cmUgdG8gc2F2ZSBpdCBzbyB0aGF0IHlvdSBkb24ndCBsb3NlIGl0LgoKTm93IHNhdmUgdGhlIGFjY2VzcyB0b2tlbiBpbnNpZGUgeW91ciBbZ2l0aHViIHNlY3JldHNdKGh0dHBzOi8vZG9jcy5naXRodWIuY29tL2VuL2FjdGlvbnMvc2VjdXJpdHktZ3VpZGVzL2VuY3J5cHRlZC1zZWNyZXRzI2NyZWF0aW5nLWVuY3J5cHRlZC1zZWNyZXRzLWZvci1hLXJlcG9zaXRvcnkpIGFuZCBuYW1lIGl0IGBQTEFZR1JPVU5EX1BBVGAgYW5kIHlvdSdyZSBnb29kIHRvIGdvLgoKIyMgV2hhdCBhcmUgTmFwcHRpdmUgR2l0SHViIEFjdGlvbnM/CgpOYXBwdGl2ZSBoYXMgcHJvdmlkZWQgYSBzZXQgb2YgR2l0SHViIGFjdGlvbnMgd2l0aCB3aGljaCB3ZSBjYW4gYXV0b21hdGUgdmFyaW91cyB0YXNrcyBzdWNoIGFzIGxpc3RpbmcgYWxsIHRoZSBjYXRhbG9ndWVzIGZyb20gdGhlIHBsYXlncm91bmQsIGRlcGxveWluZyBjYXRhbG9ndWVzLCBwdXNoaW5nIGFwcGxpY2F0aW9ucyB0byB0aGUgcGxheWdyb3VuZCBldGMuLi4KCklmIHlvdSBkb24ndCBrbm93IGFib3V0IHdoYXQgYXJlIEdpdEh1YiBBY3Rpb25zLCBtYWtlIHN1cmUgdG8gY2hlY2sgb3V0IFt0aGlzIGJsb2ddKGh0dHBzOi8vaGFzbmFpbm0uaGFzaG5vZGUuZGV2L2dpdGh1Yi1hY3Rpb25zKQoKQ3VycmVudGx5LCBOYXBwdGl2ZSBwcm92aWRlcyAyIGFjdGlvbnMgdG8gYXV0b21hdGUgdGhlIHN0dWZmLiBXaXRoIHRoZXNlIGFjdGlvbnMsIHlvdSBjYW4gYmFzaWNhbGx5IHBlcmZvcm0gdGhlIG5vcm1hbCB0YXNrcyBtZW50aW9uZWQgYWJvdmUKCiogKipwbGF5Z3JvdW5kLWdpdGh1Yi1hY3Rpb24qKgoqICoqY2F0YWxvZy1kZXBsb3ktYWN0aW9uKioKClNvIGxldCdzIHNlZSBob3cgdG8gaW50ZWdyYXRlIGFsbCB0aGUgYWJvdmUgdGhyZWUgaW50byBvdXIgcmVwb3NpdG9yeQoKIyMjIFBsYXlncm91bmQgR2l0SHViIEFjdGlvbgoKVGhlIGBwbGF5Z3JvdW5kLWdpdGh1Yi1hY3Rpb25gIGFsbG93cyB5b3UgdG8gZXhlY3V0ZSBhbnkgcGxheWdyb3VuZCBjb21tYW5kIHlvdSBuZWVkLCBUbyBleHBsb3JlIGFsbCB0aGUgY29tbWFuZHMgdXNlZCBjaGVjayBvdXQgW3RoaXMgbGlua10oaHR0cHM6Ly9kb2NzLm5hcHB0aXZlLmNvbS9wbGF5Z3JvdW5kL2NsaS9lbnZpcm9ubWVudHMuaHRtbCNlbnZpcm9ubWVudHMpLgoKVG8gZ2V0IHN0YXJ0ZWQgd2l0aCB0aGUgYWN0aW9ucyBjcmVhdGUgYSBgLmdpdGh1Yi93b3JrZmxvd3NgIGRpcmVjdG9yeSBpbnNpZGUgeW91ciBtYWluIHJlcG9zaXRvcnkgdG8gZGVmaW5lIGFsbCB5b3VyIHdvcmtmbG93cyBvdmVyIHRoZXJlLgoKTm93IGNyZWF0ZSBhIGBwbGF5Z3JvdW5kLWdpdGh1Yi1hY3Rpb24ueW1sYCBmaWxlIGluc2lkZSAgYHdvcmtmbG93c2AgZGlyZWN0b3J5IGFuZCBwYXN0ZSB0aGlzIGNvZGUgaW5zaWRlIHRoZSBmaWxlLgpgYGAKbmFtZTogTGlzdCBkZXBsb3llZCBhcHBsaWNhdGlvbnMKb246IFtwdXNoXQpqb2JzOgogIGRlcGxveToKICAgIG5hbWU6IFBsYXlncm91bmQgTGlzdCBhcHBsaWNhdGlvbnMKICAgIHJ1bnMtb246IHVidW50dS1sYXRlc3QKICAgIHN0ZXBzOgogICAgICAjIEdldCBhIGNvcHkgb2YgdGhlIHJlcG8uCiAgICAgIC0gdXNlczogYWN0aW9ucy9jaGVja291dEB2MgogICAgICAjIEV4ZWN1dGUgYHBsYXlncm91bmQgYXBwcyBgLgogICAgICAtIHVzZXM6IG5hcHB0aXZlLWFjdGlvbnMvcGxheWdyb3VuZC1naXRodWItYWN0aW9uQHY0LjEuMAogICAgICAgIGVudjoKICAgICAgICAgIFBMQVlHUk9VTkRfUEFUOiAke3sgc2VjcmV0cy5QTEFZR1JPVU5EX1BBVCB9fQogICAgICAgIHdpdGg6CiAgICAgICAgICBjbWQ6ICJhcHBzIgpgYGAKClRoZSBhYm92ZSBjb2RlIHdpbGwgbGlzdCBhbGwgdGhlIGFwcHMgZGVwbG95ZWQgb24gdGhlIHBsYXlncm91bmQuIFlvdSBjYW4gc3BlY2lmeSB3aGljaCBjb21tYW5kIHRvIHJ1biBpbnNpZGUgdGhlIGBFeGVjdXRlIHBsYXlncm91bmQgPGNvbW1hbmQ+YCBhbmQgaXQgd2lsbCBydW4gdGhhdCBjb21tYW5kIG9uIGVhY2ggcHVzaCB0byB0aGUgcmVwb3NpdG9yeS4KCiMjIyBDYXRhbG9nIERlcGxveSBBY3Rpb24KClRoZSBuZXh0IGFjdGlvbiBpcyBgY2F0YWxvZy1kZXBsb3lgIGFjdGlvbiB3aXRoIHdoaWNoIGluIGVhY2ggcHVzaCB5b3Ugd2lsbCBiZSBhYmxlIHRvIGRlcGxveSBhIGNhdGFsb2cgdG8geW91ciBuYXBwdGl2ZSBwbGF5Z3JvdW5kLgoKQ3JlYXRlIGEgbmV3IGZpbGUgbmFtZWQgYGNhdGFsb2ctZGVwbG95LnltbGAgaW5zaWRlIHRoZSBgd29ya2Zsb3dzYCBkaXJlY3RvcnkgYW5kIHBhc3RlIHRoaXMgY29kZSBpbnNpZGUgaXQuCmBgYApuYW1lOiBEZXBsb3kgdG8gTmFwcHRpdmUgUGxheWdyb3VuZCBmcm9tIENhdGFsb2cKb246IFtwdXNoXQpqb2JzOgogIGRlcGxveToKICAgIG5hbWU6IENhdGFsb2cgZGVwbG95CiAgICBydW5zLW9uOiB1YnVudHUtbGF0ZXN0CiAgICBzdGVwczoKICAgICAgIyBEZXBsb3lpbmcgbmFwcHRpdmUvZHJhd2lvOjE0LjMuMCBmcm9tIHRoZSBjYXRhbG9nCiAgICAgIC0gdXNlczogbmFwcHRpdmUtYWN0aW9ucy9jYXRhbG9nLWRlcGxveS1hY3Rpb25AdjQuMS4wCiAgICAgICAgZW52OgogICAgICAgICAgUExBWUdST1VORF9QQVQ6ICR7eyBzZWNyZXRzLlBMQVlHUk9VTkRfUEFUIH19CiAgICAgICAgd2l0aDoKICAgICAgICAgIGFwcE5hbWU6ICJuYXBwdGl2ZS9kcmF3aW86MTQuMy4wIgpgYGAKVGhlIGFib3ZlIGNvZGUgd2lsbCBkZXBsb3kgdGhlICBgZHJhdy5pb2AgYXBwIHRvIHlvdXIgcGxheWdyb3VuZCB3aGVuZXZlciB5b3UgcHVzaCBhbnkgY2hhbmdlcy4KCiFbaW1hZ2UucG5nXShodHRwczovL2Nkbi5oYXNobm9kZS5jb20vcmVzL2hhc2hub2RlL2ltYWdlL3VwbG9hZC92MTY2NTI5NzA2NTk1My9mVzFRZ0hJckgucG5nIGFsaWduPSJsZWZ0IikKCkFzIHlvdSBjYW4gc2VlIHRoZSBhcHAgaGFzIGJlZW4gc3VjY2Vzc2Z1bGx5IGRlcGxveWVkIG9uIG15IHBsYXlncm91bmQuIFlvdSBjYW4gYWxzbyBzcGVjaWZ5IGFueSB0eXBlIG9mIGFwcCBpbnNpZGUgdGhlIGBhcHBOYW1lYCBwcm9wZXJ0eS4KCiMjIFdyYXBwaW5nIHVwICEhIQoKSSBob3BlIHRoYXQgdGhlIGFib3ZlIDIgbWVudGlvbmVkIGFjdGlvbnMgd2lsbCBiZSBoZWxwZnVsIHRvIHlvdXIgd2hpbGUgd29ya2luZyB3aXRoICoqTmFwcHRpdmUqKi4gSSB3aWxsIHdyaXRlIG1vcmUgYmxvZ3MgaW4gdGhlIHVwY29taW5nIGFjdGlvbnMgc28gdGhhdCB5b3UnbGwgZ2V0IGEgYmV0dGVyIHVuZGVyc3RhbmRpbmcgb2YgaG93IHRvIGF1dG9tYXRlIHlvdXIgd2hvbGUgcGxheWdyb3VuZC4gSWYgeW91IGhhdmUgYW55IGRvdWJ0cyByZWxhdGVkIHRvIERldk9wcyBhbmQgRmx1dHRlciwgZmVlbCBmcmVlIHRvIHJlYWNoIG1lIG91dCBvbiAqKltUd2l0dGVyXShodHRwczovL3R3aXR0ZXIuY29tL0hhc25haW5fTWFrYWRhKSoqIGFuZCAqKltTaG93d2Nhc2VdKGh0dHBzOi8vc2hvd3djYXNlLmNvbS9oYXNuYWlubWFrYWRhLTk5KSoqLgoKSGFwcHkgQ29kaW5nIDop
+# Exploring Napptive GitHub Actions
+
+**Hey everyone, I am Hasnain Makada currently working as a Developer Advocate at [Napptive](https://napptive.com) where I explore the platform deeply and educate the community about DevOps and Flutter. Today I am going to show the custom GitHub actions by napptive with which you can speed up the integration of CI/CD pipelines to execute tests on the platform**
+
+So without waiting for any further ado, Let's get started
+
+## Generating personal access token
+
+To start with the actions, you first need to generate your personal access token from the napptive playground. To generate the unique access token, make sure that you have the **[CLI](https://docs.napptive.com/getting_started/starting_with_the_cli.html)** installed on your machine.
+
+Open your terminal and run this command to generate a token.
+```
+playground user pat create ci_pat
+```
+After running this command your token will be generated successfully and visible to you inside your terminal. Make sure to save it so that you don't lose it.
+
+Now save the access token inside your [github secrets](https://docs.github.com/en/actions/security-guides/encrypted-secrets#creating-encrypted-secrets-for-a-repository) and name it `PLAYGROUND_PAT` and you're good to go.
+
+## What are Napptive GitHub Actions?
+
+Napptive has provided a set of GitHub actions with which we can automate various tasks such as listing all the catalogues from the playground, deploying catalogues, pushing applications to the playground etc...
+
+If you don't know about what are GitHub Actions, make sure to check out [this blog](https://hasnainm.hashnode.dev/github-actions)
+
+Currently, Napptive provides 2 actions to automate the stuff. With these actions, you can basically perform the normal tasks mentioned above
+
+* **playground-github-action**
+* **catalog-deploy-action**
+
+So let's see how to integrate all the above three into our repository
+
+### Playground GitHub Action
+
+The `playground-github-action` allows you to execute any playground command you need, To explore all the commands used check out [this link](https://docs.napptive.com/playground/cli/environments.html#environments).
+
+To get started with the actions create a `.github/workflows` directory inside your main repository to define all your workflows over there.
+
+Now create a `playground-github-action.yml` file inside  `workflows` directory and paste this code inside the file.
+```
+name: List deployed applications
+on: [push]
+jobs:
+  deploy:
+    name: Playground List applications
+    runs-on: ubuntu-latest
+    steps:
+      # Get a copy of the repo.
+      - uses: actions/checkout@v2
+      # Execute `playground apps `.
+      - uses: napptive-actions/playground-github-action@v4.1.0
+        env:
+          PLAYGROUND_PAT: ${{ secrets.PLAYGROUND_PAT }}
+        with:
+          cmd: "apps"
+```
+
+The above code will list all the apps deployed on the playground. You can specify which command to run inside the `Execute playground <command>` and it will run that command on each push to the repository.
+
+### Catalog Deploy Action
+
+The next action is `catalog-deploy` action with which in each push you will be able to deploy a catalog to your napptive playground.
+
+Create a new file named `catalog-deploy.yml` inside the `workflows` directory and paste this code inside it.
+```
+name: Deploy to Napptive Playground from Catalog
+on: [push]
+jobs:
+  deploy:
+    name: Catalog deploy
+    runs-on: ubuntu-latest
+    steps:
+      # Deploying napptive/drawio:14.3.0 from the catalog
+      - uses: napptive-actions/catalog-deploy-action@v4.1.0
+        env:
+          PLAYGROUND_PAT: ${{ secrets.PLAYGROUND_PAT }}
+        with:
+          appName: "napptive/drawio:14.3.0"
+```
+The above code will deploy the  `draw.io` app to your playground whenever you push any changes.
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1665297065953/fW1QgHIrH.png align="left")
+
+As you can see the app has been successfully deployed on my playground. You can also specify any type of app inside the `appName` property.
+
+## Wrapping up !!!
+
+I hope that the above 2 mentioned actions will be helpful to your while working with **Napptive**. I will write more blogs in the upcoming actions so that you'll get a better understanding of how to automate your whole playground. If you have any doubts related to DevOps and Flutter, feel free to reach me out on **[Twitter](https://twitter.com/Hasnain_Makada)** and **[Showwcase](https://showwcase.com/hasnainmakada-99)**.
+
+Happy Coding :)
