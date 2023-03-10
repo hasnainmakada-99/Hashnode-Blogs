@@ -20,7 +20,7 @@ So let's get started
 
 # Getting started
 
-**Step 1:** Create a `go-http` folder by running `mkdir got-http` command.
+**Step 1:** Create a `go-http` folder by running `mkdir go-http` command.
 
 **Step 2:** Navigate to the folder and open it inside your favourite code editor.
 
