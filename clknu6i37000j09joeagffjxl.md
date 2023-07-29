@@ -5,6 +5,7 @@ seoDescription: "In this blog, I'm going to teach about how to deploy a flutter 
 datePublished: Sat Jul 29 2023 09:55:06 GMT+0000 (Coordinated Universal Time)
 cuid: clknu6i37000j09joeagffjxl
 slug: flutter-web-app-to-azure-app-service-with-node-js
+canonical: https://www.showwcase.com/show/34739/flutter-web-app-to-azure-app-service-with-node-js
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1690624035244/da2706c1-4b66-4303-911a-677a60ebc97d.png
 tags: webapps, azure, flutter, ci-cd, azure-webapp
 
