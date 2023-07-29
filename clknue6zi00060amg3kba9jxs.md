@@ -5,6 +5,7 @@ seoDescription: "A Student's guide to upskilling through Open Source and Writing
 datePublished: Sat Jul 29 2023 10:01:05 GMT+0000 (Coordinated Universal Time)
 cuid: clknue6zi00060amg3kba9jxs
 slug: becoming-the-next-you
+canonical: https://www.showwcase.com/show/34128/becoming-the-next-you
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1690624665841/237eac92-a8fb-4b34-a460-65946dc8f33a.png
 tags: blogging, opensource, upskill, career-guidance
 
